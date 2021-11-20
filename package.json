@@ -1,0 +1,17 @@
+{
+  "name": "libre-trans-cli",
+  "version": "0.0.3",
+  "description": "",
+  "main": "./lib/libre-trans.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "libre-trans": "./bin/index.js"
+  },
+  "author": "Kusarigama",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
