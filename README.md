@@ -1,5 +1,5 @@
 # libre-trans-cli
-CLI tool for translate text
+Small CLI tool for translate text
 
 ## Install
 `git clone https://github.com/artschedrov/libre-trans-cli.git`
